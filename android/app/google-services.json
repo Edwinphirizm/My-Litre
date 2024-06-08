@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196201009708",
+    "project_id": "plastic-recycling-app",
+    "storage_bucket": "plastic-recycling-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196201009708:android:a4e05698bf72c479d33789",
+        "android_client_info": {
+          "package_name": "com.example.plasticrecyclingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBch4cCj8hUIzxcKfJ_qQj8Yoa7zf7uXLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
